@@ -1,4 +1,4 @@
-# Vue TIc Tac Toe
+# Vue Tic Tac Toe
 
 A classic tic tac toe game.
 
